@@ -69,5 +69,24 @@ For this project, we will be using a MERN stack, which is an open-source one tha
 
 * **NodeJS** - It is an open-source JS runtime environment that allows users to run code on the server.  
 
+>**R2. Dataflow Diagram**
+
+![Dataflow Diagram](/docs/DataFlow%20Diagram.png)
+
+**From the Dataflow Diagram, we can map out that:**
+
+* A budget user exists and can log in for its authentication 
+* If a budget user does not exist, it can sign in and have authentication as well 
+* Once authenticated the user can perform different actions 
+* Users can create, edit and delete saving goals 
+* Users can create, edit and delete expenses 
+* Users can create predicted bills 
+* Users can have an overview of their expenses and savings 
+* All Expenses data is sent to a specific database
+* Savings data is stored in a unique database, as well as Bills data and Users data from Budget Manager
+
+As can be seen in the dataflow diagram it has different starting points for data, beginning with the data used for logging in as it is used for doing authentication of the user, after that this data will keep flowing along any action as it is the data that have allowed us to stay inside of the app. 
+
+Data is collected by performing actions like creating expenses, goals, etc. Will start their flow by retrieving the data that the user has typed, and sending it to their specific database, as well as it can be seen when being on the home interfaces of each feature, or in the overview of the Money In/Out feature. 
 
 
