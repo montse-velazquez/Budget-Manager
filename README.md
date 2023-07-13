@@ -26,5 +26,48 @@ Nowadays, a lot of students keep track of their expenses by doing a simple sprea
 
 ### **Features**
 
+* **User Registration**
+
+Easy user registration for the user to set their username and password, also as an extra for keeping track of what kind of people is using the app, I have decided to add an extra question asking what are they more in the sense into knowing if they are students which is the target audience for the budgeting app, or a professional for example. 
+
+* **Savings Goals**
+
+Saving Goals is one of the main features of the app as it is the one that will be keeping track of how much money we are saving for different purposes. Each person has a different goal for saving money, so we can not set default name for the different savings accounts since people might not be saving at the moment for a car (an example), that's why I have decided to give the freedom to users for selecting the name of their savings account as each user has different needs.
+
+* **Expenses**
+
+Another main feature of the app, as it is the page that keeps track of all the expenses and also lets us know how much we have spent on each category, for this project we have created default categories as in this case, it is more predictable to tell what kind of expenses a user has as they are more related to expenses of our daily routine like groceries, eating out, shopping, etc. 
+
+* **Automated Bills**
+
+Automated Bills are an extra feature for this app as it is not crucial, however, is plus on the app, as it allows us to keep in mind those expenses that happen on a weekly, monthly or yearly basis, an easy example of this is paying for rent every 1st of the month, or for some students it can also be paying for their tuition every month, bills like power, gas, subscriptions, etc. All these kinds of expenses that have been already settled can be registered on this side of the app, as the user will be able to name, categorise it, add the amount, the next payment day and how often the bill will be, so the app can keep track if it will be an expense of every month, etc. 
+
+
+* **Money In/Out**
+
+Money In/Out is an extra feature as well, this feature can be seen also as a summary of all four features, in this page we can only view how much money is in, and how much money has been out so far, keeping on mind that it will stop tracking at the end of the month for restarting the expenses again. 
+
+### **Target audience**
+
+The target audience for a budget app is all the people that are trying to save money, saving money is not an easy or difficult task, is all about having habits and being organized with money, having as an outcome the ability to save as much money as we decide to no matter how much your income is, there is always ways and rules to follow for saving money. Even though I'm creating this app for students than for professionals as the interface is more friendly and not as serious as other budgeting apps, professionals are also invited to join this new app and enjoy the features that the app has to offer. 
+
+### **Tech Stack**
+
+![Budget Manager Tech Stack](/docs/TechStack.png)
+
+For this project, we will be using a MERN stack, which is an open-source one that combines different JavaScript-based frameworks, such as MongoDB, Express, React, and Node.js, allowing us to create and build web and mobile applications. 
+
+>**The MERN components are used for the next purposes:**
+
+* **MongoDB** - Mongo is a NoSQL Database where data is stored as documents with key-value pairs. It also enables to create databases, schemas and documents instead of tables. While using Mongo we can delete, query and update records. 
+    
+    All the data registered about goals, expenses, amounts and categories from our features will be stored here in different records, as we will be asking all the time for different data, deleting, updating and creating new records each day. 
+
+* **ExpressJS** - This is a NodeJS framework that helps us simplify our code. It offers a range of middleware making the deployment of our app more efficient as it saves us from creating different Node modules. Also wraps all the HTTP requests and responses complementing perfectly the ReactJS framework by developing interactive user interfaces while communicating with the server 
+
+* **ReactJS** - This is a JavaScript library that allows the development of user interfaces or in this case, the development of single-page applications as it uses the virtual DOM for rendering the different sections. 
+
+* **NodeJS** - It is an open-source JS runtime environment that allows users to run code on the server.  
+
 
 
