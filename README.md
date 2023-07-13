@@ -152,3 +152,12 @@ ___
 
 As a 'nice to have' feature of Budget Manager is to have predicted bills, where the user will be able to add his/her subscriptions, bills, etc by the next payment due and also by telling how recurrent will this be (monthly, weekly, etc).
 ___
+
+### **User Story 6**
+**“As a user of BM, I want to be able to see an overview of my expenses and savings so far, because I want to be able to have a summary all together in one page without having to go from the expenses page to the savings on and off”**
+
+* The user wants to have a summary on one page
+* In summary, he wants to be able to see expenses and savings so far
+
+As another of our ‘nice to have’ features, I have in mind having an overview page where it will show expenses and savings so far of each user, represented by a pie chart so the user can have a better dimension of how the money has been managed so far.
+___
