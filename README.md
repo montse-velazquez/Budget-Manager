@@ -142,3 +142,13 @@ ___
 
 Even though uses should not withdram money from their savings account till they achieve their goal, they will be able to withdraw money from their different savings accounts.
 ___
+
+### **User Story 5**
+**“As a casual employee, I'm really rigorous about the due dates of my bill, most of the time I forget the due date of my subscriptions or bills, it will be a plus to be able to keep a record of my bills as sometimes I don't enough money on my front account”**
+
+* The user wants to be able to view the due date of his bills and subscriptions in advance
+* Being able to difference bills from subscriptions or other kinds of predicted payments
+* Have a proper date of payment
+
+As a 'nice to have' feature of Budget Manager is to have predicted bills, where the user will be able to add his/her subscriptions, bills, etc by the next payment due and also by telling how recurrent will this be (monthly, weekly, etc).
+___
