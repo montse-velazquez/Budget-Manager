@@ -181,3 +181,12 @@ As we can see on the wireframe, we have a nav bar on the bottom where all our fe
 Once the goal is created the user wil have the chance to eliminate, edit or add amount into the goal, is a really easy interface with no complexity at all, as it can be kind of predictable what is needed from the user to register. 
 
 ![Goals - Interface](/docs/wireframes/Goals.png)
+
+### **Expenses - Interface**
+
+On the expenses interface we can see a pie chart which will be the one that keeps track of the categories expenses like goign out, groceries, etc. In this case since is more predictable to know what kind of expenses a user can have, the categories have been introduced by default so the user just needs to select the one that fits better his expense category. 
+
+Once the expenses are added we can see how the pie chart changes based on the expenses that the user registers. 
+
+![Expenses - Interface](/docs/wireframes/Expenses.png)
+
