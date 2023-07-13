@@ -174,5 +174,10 @@ The user will log in his user and password, and for target audience purpose for 
 
 ![Home Wireframe](/docs/wireframes/Home.png)
 
-### **Expenses - Interface**
+### **Goals - Interface**
 
+As we can see on the wireframe, we have a nav bar on the bottom where all our features can be seen. Next to our nav bar we have the 'Add new goal' button which will lead us to the interface for adding a new goal, where the user will be able to pick a name, target amount, initial amount and decide if it wants to save it or go back. 
+
+Once the goal is created the user wil have the chance to eliminate, edit or add amount into the goal, is a really easy interface with no complexity at all, as it can be kind of predictable what is needed from the user to register. 
+
+![Goals - Interface](/docs/wireframes/Goals.png)
