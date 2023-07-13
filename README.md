@@ -99,4 +99,17 @@ Firstly, we can see the presentation layer, as the word itself here we find UI�
 
 Once HTTPS Requests are sent and processed the database receives the data requested and will send back the data that we have requested or the confirmation of the changes done to the databases of the Budget Manager in an XML or JSON format so our page can render the new data and project it into our app.
 
+ >**R4. User Stories**
+
+### **User Story 1**
+
+**“As an international student, I want to keep track of my expenses, so I can save a small amount at the end of every month and keep track of my expenses.”**
+
+* Expenses Tracker
+* The user wants to save money even if it's a small amount
+* The user is an international student
+* The user wants to keep track of his expenses
+
+The app itself will have an expense tracker as one of the main features, so the user will be able to keep track of his expenses and even what kind of expenses was it by registering the kind of category this was.
+___
 
