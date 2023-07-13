@@ -89,4 +89,14 @@ As can be seen in the dataflow diagram it has different starting points for data
 
 Data is collected by performing actions like creating expenses, goals, etc. Will start their flow by retrieving the data that the user has typed, and sending it to their specific database, as well as it can be seen when being on the home interfaces of each feature, or in the overview of the Money In/Out feature. 
 
+>**R3.Application Architecture Diagram 
+
+![AAD](/docs/Application%20Architecture%20Diagram.png)
+
+This Architecture Diagram describes how the app will be working, a single-page application is an easy diagram as it will be performing easy CRUD actions, however even though the app will be doing easy CRUD actions it is needed different kinds of layers along our app. 
+
+Firstly, we can see the presentation layer, as the word itself here we find UI’s since from this point it can be seen how the client or the user, enters into the app and it will only have access to the views of the different windows that are rendered throughout the HTTPS requests that the user does. Even though the user will be doing HTTPS requests through the buttons and fields found in the app, these HTTPS requests will be the real Application Layer as they will be communicating with the database. 
+
+Once HTTPS Requests are sent and processed the database receives the data requested and will send back the data that we have requested or the confirmation of the changes done to the databases of the Budget Manager in an XML or JSON format so our page can render the new data and project it into our app.
+
 
