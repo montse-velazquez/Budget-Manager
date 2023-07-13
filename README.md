@@ -113,3 +113,14 @@ Once HTTPS Requests are sent and processed the database receives the data reques
 The app itself will have an expense tracker as one of the main features, so the user will be able to keep track of his expenses and even what kind of expenses was it by registering the kind of category this was.
 ___
 
+### **User Story 2**
+**“Im a graduated student and I have been on a budget for the last year however it has been really boring to keep doing it from a spreadsheet on my laptop, I wish there was a dynamic and easy app for budgeting, so I will not be bother by using my laptop all the time”**
+
+* The user is a graduated student
+* User wants a dynamic and friendly budgeting app
+* Want to keep on a budget
+* He wants an app that can be managed from his phone and not only from his laptop
+
+Budget Manager intends to be available on any device and also the design of Budget Manager has been done with the purpose of being easy and friendly to use by also following the psychology of colours so users can feel confident and optimistic about it.
+___
+
