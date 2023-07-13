@@ -124,3 +124,11 @@ ___
 Budget Manager intends to be available on any device and also the design of Budget Manager has been done with the purpose of being easy and friendly to use by also following the psychology of colours so users can feel confident and optimistic about it.
 ___
 
+### **User Story 3** 
+**“As a user of Budget Manager, I intend to have different saving goals as I have different purposes on each since I manage different expenses that need to be covered at the end of the month like rent, tuition, personal savings, etc”**
+
+* Users want to have a different savings account
+* If possible name them based on what they are going to be used for
+
+As an extra feature of creating a saving account, users will be able to name their savings account by the name they decide to.
+___
