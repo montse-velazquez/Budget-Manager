@@ -161,3 +161,18 @@ ___
 
 As another of our ‘nice to have’ features, I have in mind having an overview page where it will show expenses and savings so far of each user, represented by a pie chart so the user can have a better dimension of how the money has been managed so far.
 ___
+
+>**R5. Wireframes for multiple standard screen sizes, created using industry standard software**
+
+💡 Check Wireframes in [Figma Budget Manager](https://www.figma.com/file/9aP74PmjvV3k0VeWMFa3Uf/Budget-Manager?type=design&node-id=0%3A1&mode=design&t=4g8dJY4GJIITDvL7-1).
+
+### **Sign In - Interface**
+
+The sign in interface has an easy and friendly interface where the user can sign in or log in, each color in the buttons is related to what the user decides to do. At the end of both actions the user gets a "Let's Begin" screen for continuining into the next screen. 
+
+The user will log in his user and password, and for target audience purpose for first users we will have a simple question for the users so we can know into more detail if students, professional or others are the ones who are signing into the app. 
+
+![Home Wireframe](/docs/wireframes/Home.png)
+
+### **Expenses - Interface**
+
