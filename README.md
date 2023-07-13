@@ -132,3 +132,13 @@ ___
 
 As an extra feature of creating a saving account, users will be able to name their savings account by the name they decide to.
 ___
+
+### **User Story 4**
+**“I’m an user that is just getting into the habit of saving, so occasionally i overspend a bit of money and i tend to withdraw money from my savings and i want to keep like that till i get used to be on a budget”**
+
+* User wants to be able to withdraw money from his saving accounts
+* It is getting into the habit of being on a budget
+    * Should some alerts be trigerred as a warning when withdrawing money from their savings?
+
+Even though uses should not withdram money from their savings account till they achieve their goal, they will be able to withdraw money from their different savings accounts.
+___
