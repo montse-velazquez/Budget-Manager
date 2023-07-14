@@ -211,3 +211,60 @@ We have a simple wirefram in this interface as this section of Budget Manager wi
 
 >**6. Screenshots of your Trello board throughout the duration of the project**
 
+📊 Check [Trello Board](https://trello.com/invite/b/JmcGUZEL/ATTI71e6594f42123a0d62571ad238421aae9030AAD3/budget-manager)
+
+**1. Create Trello Board with cards** 
+___
+![Step 1](/docs/trello/1.png)
+
+**2. Add required infromation to the fields that we will need to work later on. Settle down feature os Budget Manager** 
+____
+![Step 2](/docs/trello/2.png)
+
+**3. Insight of how the features cards look like with all planeation a bullet points of what we are looking for on each feature**
+___
+![Step 3](/docs/trello/3.png)
+
+**4. Create an sketch of the tech stack, and start adding information about how to manage the dataflow diagram**
+___
+![Step 4](/docs/trello/4.png)
+
+**5. Add all wireframes, before due date, except from the final wireframe as there were little details that needed to be finished**
+___
+![Step 5](/docs/trello/5.png)
+
+**6. Finish the Dataflow diagram, and start working on the architecture diagram while trying to settledown the Tech Stack**
+___
+![Step 6](/docs/trello/6.png)
+
+**7. Add mor etask into the architecture diagram as i was still working on little details about, also finished the Tech Stack**
+____
+![Step 7](/docs/trello/7.png)
+
+**8.All Diagrams were finished and uploaded into the README file**
+___
+![Step 8](/docs/trello/8.png)
+
+**9. Start working on each user story so we can work further into touching up features for the next stage**
+___
+![Step 9](/docs/trello/9.png)
+
+**10. Add more tasks into User Stories and Wireframes**
+___
+![Step 10](/docs/trello/10.png)
+
+**11. The final wireframes are ready!**
+___
+![Step 11](/docs/trello/11.png)
+
+**12. Purpose and Target Audience done**
+___
+![Step 12](/docs/trello/12.png)
+
+**13. Add User Stories to README**
+___
+![Step 13](/docs/trello/13.png)
+
+**14. Trello Board finished, looking forward for the next stage**
+___
+![Step 14](/docs/trello/14.png)
