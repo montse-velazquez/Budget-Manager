@@ -209,3 +209,5 @@ We have a simple wirefram in this interface as this section of Budget Manager wi
 ![Money In/Out - Interface](/docs/wireframes/Money%20In-Out.png)
 
 
+>**6. Screenshots of your Trello board throughout the duration of the project**
+
