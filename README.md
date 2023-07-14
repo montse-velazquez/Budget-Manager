@@ -200,4 +200,10 @@ The user can also delete or edit a bill by clicking on the bill that it decides 
 
 ![Predict Bill - Interface](/docs/wireframes/Predict%20Bills.png)
 
+### **Money In/Out - Interface**
+
+We have a simple wirefram in this interface as this section of Budget Manager will be used more as overview of expenses, savings, etc. The user will not really be able to generate any change to the data presented as it is just an slice of everything that he has introduced, the only component that the user will be able to use, will be the nav bar located at the bottom of the screen
+
+![Money In/Out - Interface](/docs/wireframes/Money%20In-Out.png)
+
 
