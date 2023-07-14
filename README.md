@@ -1,4 +1,4 @@
-# Budget Manager 
+# **Budget Manager 📈**
 
 >__1. Description of you website, including:__
 >* Purpose 
@@ -69,7 +69,7 @@ For this project, we will be using a MERN stack, which is an open-source one tha
 
 * **NodeJS** - It is an open-source JS runtime environment that allows users to run code on the server.  
 
->**R2. Dataflow Diagram**
+>**2. Dataflow Diagram**
 
 ![Dataflow Diagram](/docs/DataFlow%20Diagram.png)
 
@@ -89,7 +89,7 @@ As can be seen in the dataflow diagram it has different starting points for data
 
 Data is collected by performing actions like creating expenses, goals, etc. Will start their flow by retrieving the data that the user has typed, and sending it to their specific database, as well as it can be seen when being on the home interfaces of each feature, or in the overview of the Money In/Out feature. 
 
->**R3.Application Architecture Diagram 
+>**3.Application Architecture Diagram 
 
 ![AAD](/docs/Application%20Architecture%20Diagram.png)
 
@@ -99,7 +99,7 @@ Firstly, we can see the presentation layer, as the word itself here we find UI�
 
 Once HTTPS Requests are sent and processed the database receives the data requested and will send back the data that we have requested or the confirmation of the changes done to the databases of the Budget Manager in an XML or JSON format so our page can render the new data and project it into our app.
 
- >**R4. User Stories**
+ >**4. User Stories**
 
 ### **User Story 1**
 
@@ -162,7 +162,7 @@ ___
 As another of our ‘nice to have’ features, I have in mind having an overview page where it will show expenses and savings so far of each user, represented by a pie chart so the user can have a better dimension of how the money has been managed so far.
 ___
 
->**R5. Wireframes for multiple standard screen sizes, created using industry standard software**
+>**5. Wireframes for multiple standard screen sizes, created using industry standard software**
 
 💡 Check Wireframes in [Figma Budget Manager](https://www.figma.com/file/9aP74PmjvV3k0VeWMFa3Uf/Budget-Manager?type=design&node-id=0%3A1&mode=design&t=4g8dJY4GJIITDvL7-1).
 
