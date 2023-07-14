@@ -174,6 +174,8 @@ The user will log in his user and password, and for target audience purpose for 
 
 ![Home Wireframe](/docs/wireframes/Home.png)
 
+> 📝 **We encourage to visit the [Figma project](https://www.figma.com/file/9aP74PmjvV3k0VeWMFa3Uf/Budget-Manager?type=design&node-id=0%3A1&mode=design&t=4g8dJY4GJIITDvL7-1) as inside of the project all the flows and prototypes can be seen there, so you can have a deeper introduction into how the flow of the app will be and how users will be able to interact with the differemt components. Aside that all screensizes can be found in there as well.**
+
 ### **Goals - Interface**
 
 As we can see on the wireframe, we have a nav bar on the bottom where all our features can be seen. Next to our nav bar we have the 'Add new goal' button which will lead us to the interface for adding a new goal, where the user will be able to pick a name, target amount, initial amount and decide if it wants to save it or go back. 
