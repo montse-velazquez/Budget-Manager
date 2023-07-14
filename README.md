@@ -190,3 +190,14 @@ Once the expenses are added we can see how the pie chart changes based on the ex
 
 ![Expenses - Interface](/docs/wireframes/Expenses.png)
 
+### **Predict Bills - Interface**
+
+On this interface we can see the change of color about adding a bill, since it is a different kind of expenses i have decided to provide a different color so the user when introducing data can tell if it's on the right interface or not. 
+
+User will just have to add basi data like company, categories that have been added by default as well, amount, frequency and date, so the app can tell the user when will the next bill be, so the user can be aware of his expenses and try to manage his money based on this kind of expenses. 
+
+The user can also delete or edit a bill by clicking on the bill that it decides to change, in this we can see the flow of the interface if the user decided to edit or delete the Rent Bill of SHA Rental. 
+
+![Predict Bill - Interface](/docs/wireframes/Predict%20Bills.png)
+
+
